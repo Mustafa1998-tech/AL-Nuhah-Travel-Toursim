@@ -1,0 +1,13 @@
+# robots.txt for AL-Nuhah Travel & Tourism
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /includes/
+Disallow: /config/
+Disallow: /vendor/
+Disallow: /node_modules/
+Disallow: /*.php$
+Disallow: /*.json$
+Disallow: /*.xml$
+
+Sitemap: https://www.alnuhah-travel.com/sitemap.xml
